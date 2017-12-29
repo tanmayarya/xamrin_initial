@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{D4173CA9-97F9-4E01-B427-0868DF9A22A0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Resources/values/styles.xml">
+    <Files>
+      <File FileName="helloworld/App.xaml.cs" Line="27" Column="10" />
+      <File FileName="helloworld/ImagePage.xaml" Line="11" Column="1" />
+      <File FileName="helloworld/greetingpage.xaml" Line="26" Column="1" />
+      <File FileName="helloworld/ImagePage.xaml.cs" Line="13" Column="115" />
+      <File FileName="Droid/Resources/values/styles.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.helloworld.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B8587C27-9186-455E-A1CD-E5CFE54CF982">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.helloworld.iOS>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.helloworld.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+</Properties>

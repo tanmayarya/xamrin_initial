@@ -1,0 +1,1 @@
+/Users/tanmay/Projects/helloworld/Droid/obj/Debug/helloworld.Droid.csprojResolveAssemblyReference.cache
